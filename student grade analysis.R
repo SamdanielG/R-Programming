@@ -1,0 +1,12 @@
+vec<-c(12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29)
+cat("Vector: ",vec,"\n")
+avg<-mean(vec)
+cat("Average: ",avg,"\n")
+minimum<-min(vec)
+cat("Minmum value: ",minimum,"\n")
+maximum<-max(vec)
+cat("Maximum value: ",maximum,"\n")
+lax<-c(34,76,84,64,38,"\n")
+yoshuva<-c(32,23,65,56)
+cat("yovlax: ",lax,yoshuva)
+    
